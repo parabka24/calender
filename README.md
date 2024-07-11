@@ -2,11 +2,11 @@
 This project is a simple web-based calendar displaying the current date, day, month, and year. It consists of HTML, CSS, and JavaScript files.
 
 # Files in the Project
-index.html: The main HTML file containing the structure of the calendar.
+index.html: The main HTML file containing the structure of the calendar. <br>
 style.css: The CSS file that provides styling for the calendar.
 
 # Instructions
-Clone the repository to your local machine.
+Clone the repository to your local machine. <br>
 Open index.html in a web browser to view the mini calendar.
 
 # Summary
